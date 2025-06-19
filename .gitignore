@@ -9,6 +9,7 @@ build
 output
 generativeimage2text.egg-info
 *jsonl
+*json
 *pickle
 *txt
 *ipynb
