@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+3080.sh
+6000.sh
+demo.sh
+aux_data
+build
+*log
+output
+generativeimage2text.egg-info
+*jsonl
+*pickle
+*txt
+*ipynb
